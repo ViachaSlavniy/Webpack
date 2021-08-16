@@ -1,0 +1,11 @@
+$border: 1px solid #ccc;
+
+.card {
+  padding: 1rem;
+  border: $border;
+
+  h2 {
+    color: darkorchid;
+    text-align: center;
+  }
+}
